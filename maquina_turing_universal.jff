@@ -4,8 +4,8 @@
 		<!--The list of states.-->&#13;
 		<block id="0" name="busca_estado_entrada">&#13;
 			<tag>busca_estado_entrada.jff</tag>&#13;
-			<x>444.0</x>&#13;
-			<y>327.0</y>&#13;
+			<x>263.0</x>&#13;
+			<y>343.0</y>&#13;
 			<final/>&#13;
 		</block>&#13;
 		<block id="1" name="atualiza_cabecote_mt_entrada">&#13;
