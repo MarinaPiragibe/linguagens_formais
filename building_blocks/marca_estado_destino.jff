@@ -77,7 +77,7 @@
 			<from>0</from>&#13;
 			<to>1</to>&#13;
 			<read>Q</read>&#13;
-			<write>Q</write>&#13;
+			<write>q</write>&#13;
 			<move>R</move>&#13;
 		</transition>&#13;
 	</automaton>&#13;
