@@ -26,7 +26,6 @@
 			<tag>busca_transicao_equivalente.jff</tag>&#13;
 			<x>1195.0</x>&#13;
 			<y>200.0</y>&#13;
-			<initial/>&#13;
 		</block>&#13;
 		<block id="5" name="marca_elemento_da_troca">&#13;
 			<tag>marca_elemento_da_troca.jff</tag>&#13;
@@ -42,6 +41,7 @@
 			<tag>verifica_validade.jff</tag>&#13;
 			<x>111.0</x>&#13;
 			<y>176.0</y>&#13;
+			<initial/>&#13;
 		</block>&#13;
 		<block id="9" name="marca_estado_destino">&#13;
 			<tag>marca_estado_destino.jff</tag>&#13;
