@@ -12,7 +12,7 @@ Entra em um estado não final que não consegue sair
 
 Entrada não tem estado inicial
 > entrada: q11a1a11Rq11#q11a1a1Rqf$a1a111
-> saída: q11a1a11Rq11#q11a1a1Rqf$A1a111#R
+> saída: A MTU rejeita
 
 Entrada não tem estado final nem transição equivalente:
  > entrada: q1bbRq11$
