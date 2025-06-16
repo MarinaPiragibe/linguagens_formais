@@ -21,3 +21,8 @@ Entrada não tem estado final nem transição equivalente:
 Entrada perfeita!
 > entrada: q1a1a11Rq11#q11a11a111Lqf#q11a1a11Rq1$a1a11
 > saída: q1a1a11Rq11#q11a11a111Lqf#q11a1a11Rq1$A11a111#A
+
+
+Loop infinito :O 
+> entrada: q1a1a1Rq1#q1bbLq1$a1
+> saída: q1a1a1Rq1#q1bbLq1$A1 (infinito)
