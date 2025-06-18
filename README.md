@@ -1,4 +1,4 @@
-# linguagens_formais
+# Linguagens Formais: Máquina de Turing Universal
 ### Autores: Marina Piragibe e Pedro Ximenes
 #### Casos de Uso
 
