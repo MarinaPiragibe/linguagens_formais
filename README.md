@@ -1,6 +1,6 @@
 # linguagens_formais
-
-Casos de Uso
+### Autores: Marina Piragibe e Pedro Ximenes
+#### Casos de Uso
 
 Problema da Parada:
  > entrada: q1bbRq1$
